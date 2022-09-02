@@ -1,6 +1,6 @@
 # Supervised Learning Assignments
 
-### [Done at Coursera](https://www.deeplearning.ai/courses/machine-learning-specialization/)
+### [Done at Coursera](https://www.coursera.org/specializations/machine-learning-introduction)
 
 ---
 
